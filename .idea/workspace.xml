@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="721cfd00-0b5f-4db2-a9df-7e13a6de38ca" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kpbSPAJtWgHQCFR7lxpAPDPbDb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="JUnit.ElevatorsTest.elevators_going_up_and_not_stopping_should_arrive_first_to_top_floor">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="elevator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElevatorsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="elevator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sqli.test.elevators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sqli.test.elevators" />
+      <option name="MAIN_CLASS_NAME" value="com.sqli.test.elevators.ElevatorsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElevatorsTest.elevators_going_down_arrive_last_to_top_floor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="elevator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sqli.test.elevators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sqli.test.elevators" />
+      <option name="MAIN_CLASS_NAME" value="com.sqli.test.elevators.ElevatorsTest" />
+      <option name="METHOD_NAME" value="elevators_going_down_arrive_last_to_top_floor" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElevatorsTest.elevators_going_up_and_not_stopping_should_arrive_first_to_top_floor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="elevator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sqli.test.elevators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sqli.test.elevators" />
+      <option name="MAIN_CLASS_NAME" value="com.sqli.test.elevators.ElevatorsTest" />
+      <option name="METHOD_NAME" value="elevators_going_up_and_not_stopping_should_arrive_first_to_top_floor" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElevatorsTest.elevators_going_up_should_arrive_to_top_floor_before_those_going_down" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="elevator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sqli.test.elevators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sqli.test.elevators" />
+      <option name="MAIN_CLASS_NAME" value="com.sqli.test.elevators.ElevatorsTest" />
+      <option name="METHOD_NAME" value="elevators_going_up_should_arrive_to_top_floor_before_those_going_down" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElevatorsTest.the_closest_elevator_to_top_floor_should_arrive_first" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="elevator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sqli.test.elevators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sqli.test.elevators" />
+      <option name="MAIN_CLASS_NAME" value="com.sqli.test.elevators.ElevatorsTest" />
+      <option name="METHOD_NAME" value="the_closest_elevator_to_top_floor_should_arrive_first" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ElevatorsTest.elevators_going_up_and_not_stopping_should_arrive_first_to_top_floor" />
+        <item itemvalue="JUnit.ElevatorsTest" />
+        <item itemvalue="JUnit.ElevatorsTest.elevators_going_up_should_arrive_to_top_floor_before_those_going_down" />
+        <item itemvalue="JUnit.ElevatorsTest.elevators_going_down_arrive_last_to_top_floor" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="721cfd00-0b5f-4db2-a9df-7e13a6de38ca" name="Default Changelist" comment="" />
+      <created>1606400478164</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606400478164</updated>
+      <workItem from="1606400481208" duration="5645000" />
+      <workItem from="1606493427827" duration="5745000" />
+      <workItem from="1606514970617" duration="1830000" />
+      <workItem from="1606552353971" duration="10231000" />
+      <workItem from="1606760194101" duration="3070000" />
+      <workItem from="1606912598651" duration="248000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606496473927">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1606496473927" />
+    <state x="93" y="93" width="1095" height="495" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1606912846125">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1280.680@0.0.1280.680" timestamp="1606912846125" />
+    <state x="446" y="51" key="#com.intellij.ide.util.MemberChooser" timestamp="1606773061400">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="51" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1606773061400" />
+    <state x="371" y="125" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1606496472999">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="125" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1606496472999" />
+    <state x="421" y="97" key="FileChooserDialogImpl" timestamp="1606775337248">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="97" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1606775337248" />
+    <state width="1237" height="179" key="GridCell.Tab.0.bottom" timestamp="1606912910911">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="179" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1606912910911" />
+    <state width="1237" height="179" key="GridCell.Tab.0.center" timestamp="1606912910911">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="179" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1606912910911" />
+    <state width="1237" height="179" key="GridCell.Tab.0.left" timestamp="1606912910911">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="179" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1606912910911" />
+    <state width="1237" height="179" key="GridCell.Tab.0.right" timestamp="1606912910911">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="179" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1606912910911" />
+    <state x="335" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1606760212692">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="335" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1606760212692" />
+    <state x="377" y="235" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1606516758534">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="377" y="235" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.680@0.0.1280.680" timestamp="1606516758534" />
+    <state x="101" y="0" key="new project wizard" timestamp="1606470391499">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="101" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1606470391499" />
+  </component>
+</project>
